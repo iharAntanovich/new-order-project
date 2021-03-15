@@ -1,7 +1,8 @@
-##About the project
+# About the project
 With it, you can manage orders. Namely add, delete, change.
 
-##Built With
+# Built With
+
 - PostreSQL - Open-Source Relational Database Management System
 - Client - Frontend/UI
 - Server - Backend
