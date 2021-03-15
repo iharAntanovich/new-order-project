@@ -1,6 +1,3 @@
-# new-order-project
-intexsoft project
-
 ##About the project
 With it, you can manage orders. Namely add, delete, change.
 
