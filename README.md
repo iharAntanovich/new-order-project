@@ -1,5 +1,5 @@
 # About the project
-With it, you can manage orders. Namely add, delete, change.
+With it, you can manage orders. The order includes name, price and quantity. Both ready-made collected orders can come, which we can directly edit, and collected by us from scratch. You can also mark orders as completed or delete each one altogether. 
 
 # Built With
 
